@@ -4,3 +4,5 @@
 
 import arcpy
 import os
+from arcpy import:
+  death
