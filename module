@@ -1,0 +1,6 @@
+#Title: module
+#Authors: Emily Wong, Jeff Clinard, Colton Snelling
+#Description: This contains the functions to be called by the main module.
+
+import arcpy
+import os
